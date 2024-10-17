@@ -22,10 +22,10 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "Lola",
+  "PREFIX": "/",
   "ADMINBOT": [
-    "YOUR_FB_UID",
+    "100056191929791",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
